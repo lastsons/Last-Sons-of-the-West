@@ -1,0 +1,57 @@
+#logo-container {
+  margin: auto;
+  padding: 0px;
+  width: 1000px;
+
+}
+
+
+#logo-text-image {
+  margin-left: 25px;
+  margin-top: 50px;
+  padding-top: 0px;
+  }
+
+
+#logo-image-eagle {
+      margin-left: 450px;
+      margin-top: -205px;
+}
+
+body {
+  background-color: black;
+}
+
+#button-container {
+    width: 900px;
+margin-left: 465px;
+  margin-top: -240px;
+
+}
+
+#button-home {
+  border-right: 1px solid white;
+  max-width: 15%;
+  height: auto;
+}
+
+#button-articles {
+  border-right: 1px solid white;
+  max-width: 15%;
+  height: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#button-about {
+  max-width: 15%;
+  height: auto;
+}
+
+#daily-content {
+  margin: auto;
+  margin-top: 200px;
+  width: 1000px;
+  height: 500px;
+  background-color: white;
+}
